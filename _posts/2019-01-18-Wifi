@@ -1,0 +1,22 @@
+---
+layout: post
+title: Wifi Defense & Exploitation
+subtitle: DC509
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [wifi]
+comments: true
+---
+
+Hello, and welcome to my explanation of what I've learned so far in wifi exploitation and defense. A lot of the post is going
+to cover tools that can be found installed by default in Kali, so using that system is going to make your life a lot easier.
+Virtual machines are my recommended way of using this, or even booting off a usb3 drive. Also, your going to need a 2.4ghz
+wireless adapter capable of injecting packets. If your lucky, your laptop supports this by default.
+
+```
+airodump -ng start wlan0
+```
+Should give you feedback on if your adapter is supported or not.
+
+{: .box-warning}
+**Warning:** Make sure your adapter supports wireless injection. If not, your attacks will not work!
