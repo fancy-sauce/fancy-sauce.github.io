@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+[![asciicast](https://asciinema.org/a/239367.svg)](https://asciinema.org/a/239367)
