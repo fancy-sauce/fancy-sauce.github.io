@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Kismet: "https://www.kismetwireless.net"
+    - Wifite2: "https://github.com/derv82/wifite2"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
 
@@ -72,7 +73,7 @@ author:
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
-# twitter: daattali
+ twitter: Revtactical7
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
