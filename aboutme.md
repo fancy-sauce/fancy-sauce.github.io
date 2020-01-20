@@ -7,6 +7,6 @@ subtitle: About me?!
 
 - I rock a great mustache
 - I'm extremist
--@Revtactical7
+- @Revtactical7
 
 What else do you have?
