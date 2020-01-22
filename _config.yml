@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Fancy Sauce
+title: FancySauce
 
 # Short description of your site
 description: Linux, Wifi, Hack The Box, all that stuff.
@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Fancy Sauce
+  name: FancySauce
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,7 +73,7 @@ author:
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
- twitter: Revtactical7
+#  twitter: Revtactical7
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
