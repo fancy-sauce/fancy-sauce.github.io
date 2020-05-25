@@ -12,7 +12,6 @@ comments: true
 Check [here](https://raw.githubusercontent.com/fancy-sauce/fancy-sauce.github.io/master/pastebinScraper.py) for an up to date version of this script.
 
 ```
-## importing bs4, requests, fake_useragent and csv modules
 import bs4, requests, random, time, csv, string
 from fake_useragent import UserAgent
 from random import randint
