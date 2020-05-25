@@ -9,15 +9,13 @@ comments: true
 ---
 # A simple script to scrape pastebin at random intervals to not get banned
 
+Check [here] before using this script, there may have been an update (https://raw.githubusercontent.com/fancy-sauce/fancy-sauce.github.io/master/pastebinScraper.py)
+
+
 ```
 ## importing bs4, requests, fake_useragent and csv modules
-import bs4
-import requests
+import bs4, requests, random, time, csv, string
 from fake_useragent import UserAgent
-import random
-import time
-import csv
-import string
 from random import randint
 from time import sleep
 
