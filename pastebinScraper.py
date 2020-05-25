@@ -1,4 +1,3 @@
-## importing bs4, requests, fake_useragent and csv modules
 import bs4, requests, random, time, csv, string
 from fake_useragent import UserAgent
 from random import randint
