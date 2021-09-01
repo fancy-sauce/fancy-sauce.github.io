@@ -6,6 +6,4 @@ subtitle: About me?!
 
 
 - I rock a great mustache
-- I'm extremist
-
-What else do you have?
+- I go by FancySauce
