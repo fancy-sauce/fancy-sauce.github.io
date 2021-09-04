@@ -7,7 +7,7 @@ gh-badge: [star, follow]
 tags: [script]
 comments: true
 ---
-# A simple script to scrape pastebin at random intervals to not get banned
+# A simple script to scrape pastebin at random intervals.
 
 Check [here](https://raw.githubusercontent.com/fancy-sauce/fancy-sauce.github.io/master/pastebinScraper.py) for an up to date version of this script.
 
