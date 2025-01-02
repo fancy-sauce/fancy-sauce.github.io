@@ -1,3 +1,12 @@
+---
+layout: post
+title: Bug Bounty Workflow
+subtitle: Personal notes
+gh-repo: fancy-sauce/fancy-sauce.github.io
+gh-badge: [star, follow]
+tags: [Automation, Nuclei, bugbounty, linux]
+comments: true
+---
 
 ## Get a scope from hackerone:
 ```
