@@ -47,6 +47,6 @@ Both username and password are **neo4j**
 Download the latest ubuntu zip from:
 https://github.com/BloodHoundAD/BloodHound/releaseshttps://github.com/BloodHoundAD/BloodHound/releases
 
-Unzip the archive
+Unzip the archive!
 
 ---
