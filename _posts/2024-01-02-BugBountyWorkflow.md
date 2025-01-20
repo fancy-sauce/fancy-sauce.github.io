@@ -55,3 +55,5 @@ This will output targets_clean.txt
 ```
 nuclei -list targets_clean.txt -tags rce
 ```
+
+TEST
