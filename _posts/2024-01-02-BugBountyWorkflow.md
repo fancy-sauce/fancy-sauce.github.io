@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Bug Bounty Workflow
-subtitle: Personal notes
+subtitle: Personal Project
 gh-repo: fancy-sauce/fancy-sauce.github.io
 gh-badge: [star, follow]
-tags: [Automation, Nuclei, bugbounty, linux]
+tags: [Automation, Nuclei, bugbounty, linux, script]
 comments: true
 ---
 
