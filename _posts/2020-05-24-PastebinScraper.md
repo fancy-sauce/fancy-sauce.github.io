@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pastebin scraper
-subtitle: Python 3 Script
+subtitle: Personal Project
 gh-repo: fancy-sauce/fancy-sauce.github.io
 gh-badge: [star, follow]
 tags: [script]
