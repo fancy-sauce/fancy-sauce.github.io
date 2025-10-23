@@ -15,6 +15,7 @@ comments: true
 ![](/img/Pasted image 20250929102951.png)
 
 Then head to file manager:
+
 ![](/img/Pasted image 20250929103109.png)
 
 ![](/img/Pasted image 20250930120224.png)
@@ -42,9 +43,11 @@ Go back one level and choose Add-ons:
 ![](/img/Pasted image 20250929103335.png)
 
 Install from zip:
+
 ![](/img/Pasted image 20250929103401.png)
 
 Select the title of the link you added in File Manager from the previous step:
+
 ![](/img/Pasted image 20250930120627.png)
 
 The zip file for your repo will show up, select it.
@@ -56,6 +59,7 @@ Sucees!
 ![](/img/Pasted image 20250930120711.png)
 
 Now we need to install the application from the newly installed repo:
+
 ![](/img/Pasted image 20250930120753.png)
 
 This method works for basically any repo install in Kodi. For POV use this one:
