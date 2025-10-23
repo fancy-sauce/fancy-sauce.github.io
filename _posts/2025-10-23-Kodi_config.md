@@ -76,4 +76,4 @@ Now you just need to authorize real-debrid, or whatever your premium content pro
 
 Until next time!
 
--
+- FancySauce
