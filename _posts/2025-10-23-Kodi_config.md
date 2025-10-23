@@ -11,7 +11,12 @@ tags:
   - kodi
 comments: true
 ---
-# First enable unknown sources:
+
+# Intro:
+
+ Since there are so many different device options, an abundance of online tutorials, and ease of initial setup, this post assumes you already have Kodi installed on your preferred hardware.
+
+The first step is to enable unknown sources. This may seem sketchy but if you double check your addons and vet the githubs they are coming from you should be fine:
 ![](/img/Pasted image 20250929102951.png)
 
 Then head to file manager:

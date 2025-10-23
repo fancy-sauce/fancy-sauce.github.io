@@ -11,15 +11,14 @@
             "id": "a42e18ed9980cc07",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_posts/2025-10-23-Kodi_config.md",
-                "bFile": "_posts/2025-10-23-Kodi_config.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "_posts/2025-10-23-Kodi_config.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-10-23-Kodi_config"
+              "icon": "lucide-file",
+              "title": "2025-10-23-Kodi_config"
             }
           }
         ]
