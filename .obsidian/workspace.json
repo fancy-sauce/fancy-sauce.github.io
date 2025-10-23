@@ -11,14 +11,14 @@
             "id": "a42e18ed9980cc07",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "_posts/2025-10-23-Kodi_config.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "2025-10-23-Kodi_config"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "a42e18ed9980cc07",
   "lastOpenFiles": [
+    "img/Pasted.md",
     "_posts/2025-10-23-Kodi_config.md",
     "aboutme.md",
     "_posts/2020-01-18-Wifi.md",

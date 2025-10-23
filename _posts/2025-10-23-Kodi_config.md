@@ -16,6 +16,8 @@ comments: true
 # First enable unknown sources:
 
 Then head to file manager:
+
+![](/img/Pasted image 20250929103109.png)
 ![[img/Pasted image 20250929103109.png]]
 ![[img/Pasted image 20250930120224.png]]
 ![[img/Pasted image 20250930120224.png]]
