@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: .gitignore"
+              "title": "Diff: app.json"
             }
           }
         ]
@@ -178,6 +178,8 @@
   "active": "a42e18ed9980cc07",
   "lastOpenFiles": [
     "_posts/2025-10-23-Kodi_config.md",
+    "aboutme.md",
+    "_posts/2020-01-18-Wifi.md",
     "img/Pasted image 20250930120836.png",
     "img/Pasted image 20250930120819.png",
     "img/Pasted image 20250930120806.png",
@@ -192,7 +194,6 @@
     "_posts/2024-01-02-BugBountyWorkflow.md",
     "README.md",
     "CHANGELOG.md",
-    "aboutme.md",
     "_posts/2023-06-15-Bloodhound-Setup.md"
   ]
 }
