@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kodi configs for Home Media
+title: POV Setup on Kodi Omega
 subtitle: 2025
 gh-repo: fancy-sauce/fancy-sauce.github.io
 gh-badge:
